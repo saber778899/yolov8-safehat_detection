@@ -1,0 +1,7 @@
+train: /home/liuhaoan/dachuang/css-data/train/images/
+val: /home/liuhaoan/dachuang/css-data/valid/images/
+test: /home/liuhaoan/dachuang/css-data/test/images/
+
+nc: 10
+
+names: [Hardhat, Mask, NO-Hardhat, NO-Mask, NO-Safety Vest, Person, Safety Cone, Safety Vest, machinery, vehicle]
