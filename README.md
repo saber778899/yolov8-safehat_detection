@@ -6,3 +6,4 @@
 
 使用版本：Python==3.10
 
+使用时记得修改safehat.yaml里的路径
